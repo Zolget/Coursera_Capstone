@@ -1,2 +1,2 @@
 # Coursera_Capstone
-The repository is for IBM DATA SCIENCE PROFESIONAL CERTIFICATE Capstone project
+The repository is mainly used for IBM DATA SCIENCE PROFESIONAL CERTIFICATE Capstone project
